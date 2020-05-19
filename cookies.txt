@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pinterest.com	TRUE	/	FALSE	1999999999	__cfduid	deccb3cd01fa9dbc2cc489523c875744a1589868049
+assets.pinterest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
